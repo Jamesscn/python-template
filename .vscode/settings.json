@@ -1,0 +1,11 @@
+{
+    "autoDocstring.docstringFormat": "pep257",
+    "editor.renderWhitespace": "all",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "[python]": {
+        "editor.rulers": [
+            120
+        ]
+    }
+}
