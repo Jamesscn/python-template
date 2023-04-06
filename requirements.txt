@@ -4,4 +4,4 @@ rich>=13.1.0
 pytest>=7.2.1
 black>=22.12.0
 pylint>=2.15.10
-setuptools==59.5.0
+setuptools==65.5.1
