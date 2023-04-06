@@ -25,7 +25,6 @@ And to test and lint the project run the test command:
   - black: automatically formats the code to conform to PEP8
   - pytest: allows you to run unit and integration tests
   - pylint: warns you about non-compliant code
-  - pycodestyle (formerly autopep8): warns you about non-compliant code 
   - mypy: warns you about type hints
 - Rich library for pretty outputs
   - The exampleproject enables rich tracebacks to ease debugging
@@ -33,6 +32,7 @@ And to test and lint the project run the test command:
   - Automatically formats your code when it is saved
   - A line is shown at the maximum line width
   - It is recommended that you install the autoDocstring plugin by Nils Werner for generating docstrings
+- GitHub actions workflow for testing on pull request or push to main
 
 ## Considerations
 

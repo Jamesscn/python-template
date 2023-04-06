@@ -2,6 +2,6 @@
 import os
 
 
-def test_example():
+def test_example() -> None:
     """An example test that does nothing."""
     assert os is not None
